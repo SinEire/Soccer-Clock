@@ -1,0 +1,22 @@
+{
+  "fitbit": {
+    "appUUID": "178ef15a-61f5-4e14-aafe-ba33205bad0d",
+    "appType": "app",
+    "appDisplayName": "Soccer Clock",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#4caf50",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Soccer Clock"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.1.0"
+  }
+}
